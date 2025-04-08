@@ -3,6 +3,7 @@ from tkinter import Tk
 from tkinter import Label
 from tkinter import Button
 from tkinter import filedialog
+from tkinter import canvas
 
 current_volume = float(0.5)
 #function
